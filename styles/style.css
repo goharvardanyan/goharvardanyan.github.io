@@ -141,3 +141,8 @@ body {
     margin-bottom: 15px;
     color: #1F3541;
 }
+@media only screen and (max-width: 840px){
+    .resume {
+        width: 100%;
+    }
+}
